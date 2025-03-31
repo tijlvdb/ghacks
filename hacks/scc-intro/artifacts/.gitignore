@@ -1,0 +1,4 @@
+argolis.tf
+terraform.tfvars
+*.zip
+
